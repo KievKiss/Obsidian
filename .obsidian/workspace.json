@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "73309ca6ad55f230",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea47a4b23c1b9cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4acb16817412738",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6651303254ced7ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cef616d2df5a5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d254d0b1859b41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c765f4686b928b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8868d1f5a155046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96c523159a959d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb6d44cbcb82f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9d793835895ac4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8bcf12d8e001e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "110cf182c0077a6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a7f65b440062712",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a1d254d0b1859b41",
+  "lastOpenFiles": [
+    "Nova pasta",
+    "Docker/Docker machine.md",
+    "Docker/Traefik.md",
+    "Docker/Services.md",
+    "Pasted image 20240721145529.png",
+    "Pasted image 20240721145424.png",
+    "Docker/SWARM.md",
+    "Sem título.md",
+    "Pasted image 20240721145332.png",
+    "Docker/Registry.md",
+    "Docker/comandos do docker.md",
+    "Docker/Images e o commit - Descomplicando o Docker.md",
+    "Pasted image 20240720192022.png",
+    "Pasted image 20240720190341.png",
+    "Pasted image 20240720190301.png",
+    "Pasted image 20240720190110.png",
+    "Docker/Resumo Criando Imagem no Docker.md",
+    "Docker/DockerFile.md",
+    "Instalando Docker.md",
+    "Docker/Criando uma imagem no docker.md",
+    "Docker/Docker Hub.md",
+    "Docker/Docker.md",
+    "Docker/Containers.md",
+    "Docker/Client e Server - Docker Engine.md",
+    "Docker/Imagens.md",
+    "Docker/Persistindo dados.md",
+    "Docker/load balancer.md",
+    "Docker/Volumes.md",
+    "Docker/Pasted image 20240423131152.png",
+    "Docker/Namespaces.md",
+    "Docker/Portas no Docker.md",
+    "Docker/Resumo do que é Docker.md",
+    "Pasted image 20240424132649.png",
+    "Clouding onboarding/Cloud Onboarding.md",
+    "JavaScript/Introdução a linguagem JS.md",
+    "Pasted image 20240425205535.png",
+    "JavaScript",
+    "Clouding onboarding",
+    "JestJS",
+    "Docker",
+    "Untitled.canvas"
+  ]
+}
