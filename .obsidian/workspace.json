@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4acb16817412738",
+            "id": "3f02fb28df935234",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Fundamentos da linguagem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang/Fundamentos da linguagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Golang/Fundamentos da linguagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang/Fundamentos da linguagem.md"
+              }
             }
           }
         ]
@@ -138,24 +146,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1d254d0b1859b41",
+  "active": "3f02fb28df935234",
   "lastOpenFiles": [
+    "Docker/DockerCompose.md",
+    "Golang/Fundamentos da linguagem.md",
+    "Pasted image 20240820121122.png",
+    "Pasted image 20240820120736.png",
+    "Pasted image 20240820120257.png",
+    "Pasted image 20240820113722.png",
+    "Pasted image 20240820113617.png",
+    "Pasted image 20240820113224.png",
+    "Pasted image 20240820113102.png",
+    "Pasted image 20240820113033.png",
+    "Pasted image 20240820112200.png",
+    "Pasted image 20240820112145.png",
+    "Golang/Boas Vindas!.md",
+    "Golang/Instalando Go.md",
+    "Golang",
     "Nova pasta",
     "Docker/Docker machine.md",
     "Docker/Traefik.md",
     "Docker/Services.md",
-    "Pasted image 20240721145529.png",
-    "Pasted image 20240721145424.png",
     "Docker/SWARM.md",
-    "Sem título.md",
-    "Pasted image 20240721145332.png",
     "Docker/Registry.md",
     "Docker/comandos do docker.md",
     "Docker/Images e o commit - Descomplicando o Docker.md",
-    "Pasted image 20240720192022.png",
-    "Pasted image 20240720190341.png",
-    "Pasted image 20240720190301.png",
-    "Pasted image 20240720190110.png",
     "Docker/Resumo Criando Imagem no Docker.md",
     "Docker/DockerFile.md",
     "Instalando Docker.md",
@@ -168,14 +183,8 @@
     "Docker/Persistindo dados.md",
     "Docker/load balancer.md",
     "Docker/Volumes.md",
-    "Docker/Pasted image 20240423131152.png",
     "Docker/Namespaces.md",
     "Docker/Portas no Docker.md",
-    "Docker/Resumo do que é Docker.md",
-    "Pasted image 20240424132649.png",
-    "Clouding onboarding/Cloud Onboarding.md",
-    "JavaScript/Introdução a linguagem JS.md",
-    "Pasted image 20240425205535.png",
     "JavaScript",
     "Clouding onboarding",
     "JestJS",
